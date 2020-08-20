@@ -1,9 +1,8 @@
+#Clone
+
 git clone  https://github.com/rishi7387/kali_mouse.git
 cd kali_mouse/
 chmod +x kali_mouse.sh
-
-
-
 
 #Add to StartUp
 
